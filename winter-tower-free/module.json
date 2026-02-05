@@ -1,0 +1,33 @@
+{
+  "id": "winter-tower-free",
+  "title": "021 Winter tower Free",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "d20_dragon",
+      "url": "https://www.patreon.com/cw/d20_dragon",
+      "flags": {}
+    }
+  ],
+  "url": "https://www.patreon.com/cw/d20_dragon",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "Winter-tower-Free",
+      "label": "Winter tower Free",
+      "path": "packs/Winter-tower-Free",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "description": ""
+}

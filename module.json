@@ -2,6 +2,8 @@
   "id": "winter-tower-free",
   "title": "021 Winter tower Free",
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/D20dragon/021-Winter-tower-Free/main/module.json",
+"download": "https://github.com/D20dragon/021-Winter-tower-Free/releases/download/1.0.0/winter-tower-free.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
